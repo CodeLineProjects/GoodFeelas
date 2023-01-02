@@ -1306,4 +1306,12 @@ address,.subscribe > p {
         height: 300px;
     }
 
+  .container {
+    width: 90%;
+    }
+
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
 }
