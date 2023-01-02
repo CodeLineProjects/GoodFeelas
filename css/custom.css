@@ -383,13 +383,14 @@ header .caption {
 
 .shack_burger {
     float: right;
-    margin-right: 480px;
+    margin-right: 420px;
+    padding-left: 15px;
     width: 255px;
 }
 
 .chicken {
     display: block;
-    margin: 10px 20px 55px 600px;
+    margin: 10px 20px 80px 530px;
     width: 120px;
     font-weight: bold;
 }
@@ -778,7 +779,7 @@ header .caption {
 
 .col-sm-4 {
     width: 100%;
-    margin-left: 30px;
+    /* margin-left: 30px; */
 }
 .menu, .drinks, .sides {
     display: flex;
