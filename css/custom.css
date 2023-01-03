@@ -544,7 +544,7 @@ header .caption {
 }
 
 #small_carousel .carousel-caption {
-    left: 35px;
+    left: 15px;
     padding: 0;
     right: 340px;
     top: 20px;
@@ -776,7 +776,7 @@ header .caption {
 .row {
     display: flex;
     justify-content: center;
-    width: 100%;
+    /* width: 100%; */
 }
 
 .col-sm-4 {
@@ -793,6 +793,8 @@ header .caption {
 }
 
 .menu a {
+    display: flex;
+    gap: 15px;
     color: #fff;
 }
 
