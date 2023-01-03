@@ -548,6 +548,8 @@ header .caption {
     padding: 0;
     right: 340px;
     top: 20px;
+    width: 100%;
+    text-align: left;
 }
 
 #small_carousel .carousel-indicators {
