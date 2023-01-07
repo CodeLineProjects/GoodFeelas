@@ -892,7 +892,6 @@ header .caption {
 .form-container::after {
   content: '';
   background-color: var(--highlight-color);
-  width: 100%;
   height: 100%;
   position: absolute;
   top: 24px;
